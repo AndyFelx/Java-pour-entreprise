@@ -1,0 +1,4 @@
+package org.formation.repository;
+
+public interface CoffeeRepository {
+}
