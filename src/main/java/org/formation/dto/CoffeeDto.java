@@ -1,4 +1,4 @@
 package org.formation.dto;
 
-public record CoffeeDto {
+public record CoffeeDto(Long id, String name, int price) {
 }
